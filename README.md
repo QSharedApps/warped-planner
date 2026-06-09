@@ -1,6 +1,16 @@
-# React + Vite
+# Warped Schedule PLanner DC 2026
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Most of the work was done by Claude with some guidance.
+
+## Rate Tab
+I highly recommend starting with the rate tab. Either manually enter bands or upload a list with a Tier indicated after a comma. Example:
+Band,T1
+Another Band,T2
+This Band,T3
+That Band,T4
+Coldplay,Skip
+
+
 
 Currently, two official plugins are available:
 
