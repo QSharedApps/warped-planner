@@ -10,7 +10,7 @@ This Band,T3
 That Band,T4
 Coldplay,Skip
 
-
+## Grid Tab
 
 Currently, two official plugins are available:
 
